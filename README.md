@@ -1,3 +1,5 @@
+# UPDATES 20 Oct 2023
+
 Running the FL version of the affinity prediction model
 ---
 ./hu-qDTI/run.sh
